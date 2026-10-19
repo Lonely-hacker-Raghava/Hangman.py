@@ -1,3 +1,4 @@
+#Task 1
 Hangman Game in Python
 
 Description
@@ -36,3 +37,30 @@ Files
 Internship
 
 Datheon Python Programming Internship Project
+
+#Task 2: Stock Portfolio Performance Tracker
+
+Description
+
+A Python program that tracks stock holdings and calculates portfolio value, profit or loss, and percentage return using manually entered prices.
+
+Features
+
+- Add stock symbols and share quantities
+- Record purchase prices
+- View portfolio holdings and total cost
+- Calculate current portfolio value
+- Calculate profit or loss and percentage return
+- Validate user inputs
+
+Technologies
+
+- Python 3
+- Dictionaries, functions, loops, and conditionals
+- Exception handling
+
+How to Run
+
+Run "python stock_portfolio_tracker.py" in a Python terminal.
+
+Note: Stock prices are entered manually. The program does not fetch live market prices.
