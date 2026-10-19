@@ -1,0 +1,59 @@
+[
+  {
+    "category": "business_hours",
+    "keywords": [
+      "business hours",
+      "opening hours",
+      "open today",
+      "when do you open"
+    ],
+    "answer": "Sample store hours: Monday-Friday, 9:00 AM-5:00 PM. Replace these sample hours with the real business hours before using this chatbot."
+  },
+  {
+    "category": "shipping",
+    "keywords": [
+      "shipping",
+      "delivery",
+      "deliver",
+      "ship"
+    ],
+    "answer": "Sample FAQ: Delivery times and fees depend on the destination. Please check the store's delivery policy for the latest details."
+  },
+  {
+    "category": "returns",
+    "keywords": [
+      "return",
+      "returns",
+      "refund",
+      "exchange"
+    ],
+    "answer": "Sample FAQ: Return and refund eligibility depends on the store's policy. Contact customer support with your order details for help."
+  },
+  {
+    "category": "warranty",
+    "keywords": [
+      "warranty",
+      "guarantee"
+    ],
+    "answer": "Sample FAQ: Warranty coverage varies by product. Check the product documentation or contact the seller to confirm coverage."
+  },
+  {
+    "category": "product_prices",
+    "keywords": [
+      "price",
+      "cost",
+      "pricing"
+    ],
+    "answer": "I need a specific product name to help with pricing. This sample chatbot has no live product catalogue."
+  },
+  {
+    "category": "availability",
+    "keywords": [
+      "available",
+      "availability",
+      "in stock",
+      "stock"
+    ],
+    "answer": "Sample FAQ: Product availability can change. Please check the store's current listing or contact support."
+  }
+]
